@@ -1,0 +1,60 @@
+{
+  
+  "apps":
+  [
+    {"appname":"Basic Maths",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/basic_maths.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.childmaths&hl=en"
+
+    },
+
+    {"appname":"Easy C Programming",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/easy_c.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.cprogramingapp&hl=en"
+
+    },
+
+    {"appname":"Birthday Photo Frames",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthday_photo_frames.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframes&hl=en"
+
+    },
+    { "appname":"Birthday Photo Frames Editor",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthday_photo_frames_editor.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframeseditor&hl=en"
+
+    },
+    { "appname":"Lord Ganesh Photo Frames",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/ganesh_photo_frames.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.lordganeshaphotoframes&hl=en"
+
+    },
+    { "appname":"Sri Ramanavami Photo Frames",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/sriramanavami_photoframes.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.sriramanavamiphotoframes&hl=en"
+
+    },
+
+    { "appname":"Ugadi Photo Frames",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/ugadi_photo_frames.png",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.ugadiphotoframes&hl=en"
+
+    }
+
+  ]
+
+}
