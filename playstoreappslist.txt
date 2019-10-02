@@ -18,14 +18,14 @@
 
     {"appname":"Birthday Photo Frames",
 
-      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/bithdayframes_appicon.png",
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayphotoframes.webp",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframes&hl=en"
 
     },
     { "appname":"Birthday Photo Frames Editor",
 
-      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayframeseditor_appicon.png",
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/birthdayphotoframes.webp",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.app.birthdayphotoframeseditor&hl=en"
 
