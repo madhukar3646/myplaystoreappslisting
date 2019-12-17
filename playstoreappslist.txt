@@ -31,22 +31,21 @@
       "appurl":"https://play.google.com/store/apps/details?id=com.app.lordganeshaphotoframes&hl=en"
 
     },
-    { "appname":"Sri Ramanavami Photo Frames",
+     { "appname":"Christmas Photo Frames Editor",
 
-      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/sriramanavami_photoframes.png",
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/christamas_photo_frames.webp",
 
-      "appurl":"https://play.google.com/store/apps/details?id=com.app.sriramanavamiphotoframes&hl=en"
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.christamasphotoframes&hl=en"
 
     },
 
-    { "appname":"Ugadi Photo Frames",
+    { "appname":"New Year Photo Frames Editor 2020",
 
-      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/ugadi_photo_frames.png",
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/newyearphotoframes.webp",
 
-      "appurl":"https://play.google.com/store/apps/details?id=com.app.ugadiphotoframes&hl=en"
+      "appurl":"https://play.google.com/store/apps/details?id=com.app.newyearphotoframes&hl=en"
 
     }
-
   ]
 
 }
